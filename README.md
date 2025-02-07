@@ -16,6 +16,6 @@ In terms of structure, I will divide it into different contents, for example Tra
 
 - [[RoPE](https://github.com/DngBack/AnythingFromScratch/tree/main/NLP/RoPE)] RoFORMER: ENHANCED TRANSFORMER WITH ROTARY POSITION EMBEDDING
 
-- [[NaViT](https://arxiv.org/pdf/2307.06304)] Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution
+- [[NaViT](https://github.com/DngBack/NaViT_Implematation)] Patch n’ Pack: NaViT, a Vision Transformer for any Aspect Ratio and Resolution
 
 - [[MLA](https://github.com/DngBack/MLA_Pytorch_Implementation)] Multi-Head Latent Attention
